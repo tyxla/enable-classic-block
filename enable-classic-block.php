@@ -15,4 +15,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit( 0 );
 }
 
-add_filter( 'gutenberg_classic_block_supports_inserter', '__return_true' );
+add_filter( 'wp_classic_block_supports_inserter', '__return_true' );
