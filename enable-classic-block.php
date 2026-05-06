@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Enable Classic Block
  * Description:       Makes the Classic block available in the inserter.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 6.9
  * Requires PHP:      7.4
  * Author:            tyxla
