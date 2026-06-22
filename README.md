@@ -15,3 +15,7 @@ The Classic block will appear in the inserter on every post and page.
 
 - Marin Atanasov ([@tyxla](https://github.com/tyxla))
 - Yuliyan Slavchev ([@yuliyan](https://github.com/yuliyan))
+
+## License
+
+This plugin is licensed under the [GPL-2.0-or-later](https://www.gnu.org/licenses/gpl-2.0.html) license.
