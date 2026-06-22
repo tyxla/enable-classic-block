@@ -12,7 +12,7 @@ Makes the Classic block available in the inserter.
 
 == Description ==
 
-Gutenberg 23.1.0 begins the deprecation of the Classic block by removing it from the block inserter. The block remains registered, so existing posts that contain a Classic block continue to render and can be edited — but new instances cannot be added through the inserter by default.
+Gutenberg 23.1.0 and WordPress 7.1 begin the deprecation of the Classic block by removing it from the block inserter. The block remains registered, so existing posts that contain a Classic block continue to render and can be edited — but new instances cannot be added through the inserter by default.
 
 == Installation ==
 
